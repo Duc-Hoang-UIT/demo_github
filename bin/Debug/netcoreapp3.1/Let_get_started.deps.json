@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Let_get_started/1.0.0": {
+        "runtime": {
+          "Let_get_started.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Let_get_started/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

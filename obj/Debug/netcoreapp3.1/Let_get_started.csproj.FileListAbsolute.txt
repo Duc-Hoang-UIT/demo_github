@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\CODE SOURCE\VS_Code\CSharp\Let_get_started\bin\Debug\netcoreapp3.1\Let_get_started.exe
+C:\Users\Admin\Desktop\CODE SOURCE\VS_Code\CSharp\Let_get_started\bin\Debug\netcoreapp3.1\Let_get_started.deps.json
+C:\Users\Admin\Desktop\CODE SOURCE\VS_Code\CSharp\Let_get_started\bin\Debug\netcoreapp3.1\Let_get_started.runtimeconfig.json
+C:\Users\Admin\Desktop\CODE SOURCE\VS_Code\CSharp\Let_get_started\bin\Debug\netcoreapp3.1\Let_get_started.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\CODE SOURCE\VS_Code\CSharp\Let_get_started\bin\Debug\netcoreapp3.1\Let_get_started.dll
+C:\Users\Admin\Desktop\CODE SOURCE\VS_Code\CSharp\Let_get_started\bin\Debug\netcoreapp3.1\Let_get_started.pdb
+C:\Users\Admin\Desktop\CODE SOURCE\VS_Code\CSharp\Let_get_started\obj\Debug\netcoreapp3.1\Let_get_started.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CODE SOURCE\VS_Code\CSharp\Let_get_started\obj\Debug\netcoreapp3.1\Let_get_started.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CODE SOURCE\VS_Code\CSharp\Let_get_started\obj\Debug\netcoreapp3.1\Let_get_started.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CODE SOURCE\VS_Code\CSharp\Let_get_started\obj\Debug\netcoreapp3.1\Let_get_started.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CODE SOURCE\VS_Code\CSharp\Let_get_started\obj\Debug\netcoreapp3.1\Let_get_started.dll
+C:\Users\Admin\Desktop\CODE SOURCE\VS_Code\CSharp\Let_get_started\obj\Debug\netcoreapp3.1\Let_get_started.pdb
+C:\Users\Admin\Desktop\CODE SOURCE\VS_Code\CSharp\Let_get_started\obj\Debug\netcoreapp3.1\Let_get_started.genruntimeconfig.cache
