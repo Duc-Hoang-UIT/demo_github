@@ -7,7 +7,7 @@ namespace Let_get_started
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Try demo git-hub");
+            Console.WriteLine("Try demo git-hub fix conflict");
             Console.ReadLine();
         }
     }
